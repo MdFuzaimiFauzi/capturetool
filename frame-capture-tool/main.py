@@ -282,3 +282,6 @@ if __name__ == '__main__':
     root_window = tk.Tk()
     app = CM5ResearchRecorder(root_window)
     root_window.mainloop()
+
+
+#open-source licenses
